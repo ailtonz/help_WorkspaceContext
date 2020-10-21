@@ -1,0 +1,1 @@
+deltree.cmd "%LocalAppData%\Microsoft\Team Foundation\7.0\Cache\"
